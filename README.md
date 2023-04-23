@@ -5,6 +5,6 @@
 
 #### 2. [Clustering: Extracting Patterns From Data & Metrics + Cluster Validation [Pt.2]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-metrics-cluster-validation-pt-2-dd2ce0a3405d)
 
-#### 3. (Coming soon...)
+#### 3. [Clustering: Extracting Patterns from Data & Cluster Interpretation + Plotly [Pt.3]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-cluster-interpretation-plotly-pt-3-26ac4be4326a)
 
 The articles contain all the information needed to understand the code.
